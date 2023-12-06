@@ -1,2 +1,2 @@
 # Energy Optimizer Module 
-This module focuses on optimizing energy consumption in laundry operations. 
+Description: Module to optimize energy consumption in laundry machines. 
